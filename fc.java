@@ -19,8 +19,8 @@ public class fc
 			fac = fac * i;
             sum = sum + fac;
             n=n/10;
+			System.out.println(fac);
 		}
-        System.out.println(fac);
         sc.close();
 		
 	}
