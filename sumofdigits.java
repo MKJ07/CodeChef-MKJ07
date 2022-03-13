@@ -8,6 +8,7 @@ public class sumofdigits {
         for(int i=0;i<n;i++){
             a[i]=sc.nextInt();
         }
+        sc.close();
         
 
     }
