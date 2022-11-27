@@ -1,4 +1,5 @@
-/*input:-2
+/*Code Link:-https://www.codechef.com/problems/ATM2
+Input:-2
 
 5 10
 
@@ -8,7 +9,7 @@
 
 10 8 6 4
 
-output:- 11010 0010*/
+Output:- 11010 0010*/
 
 import java.util.*;
 
