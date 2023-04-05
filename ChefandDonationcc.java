@@ -18,5 +18,6 @@ public class ChefandDonationcc {
 		    int y=sc.nextInt();
 		    System.out.println(y-x);
 		} 
+        sc.close();
 	}
 }

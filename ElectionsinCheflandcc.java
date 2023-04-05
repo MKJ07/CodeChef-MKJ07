@@ -12,7 +12,7 @@ Input : 4
 
 Output :2 2 3 0 
  */
-class Codechef
+class ElectionsinCheflandcc
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
