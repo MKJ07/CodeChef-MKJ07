@@ -20,11 +20,7 @@ import java.io.*;
 class Codechef
 
 {
-
-
 	public static void main (String[] args)	{
-
-
 
         Scanner sc=new Scanner (System.in);
 
@@ -67,7 +63,5 @@ class Codechef
             System.out.println(s);
 
         }
-
-	}
-
+}
 }
