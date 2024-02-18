@@ -36,7 +36,7 @@ If you have any suggestions, improvements, or new solutions, feel free to contri
 
 ## Connect
 
-- Follow my CodeChef journey on [CodeChef](https://www.codechef.com/users/your_username).
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) for professional networking.
+- Follow my CodeChef journey on [CodeChef](https://www.codechef.com/users/mkj07).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mahesh-kumar-jaiswal-1501581b6/) for professional networking.
 
 Happy coding! 🚀
